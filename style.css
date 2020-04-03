@@ -1,0 +1,48 @@
+
+body{
+    background: rgb(182, 179, 179);
+}
+.container-1{
+    border: 3px solid black;
+    text-align: center ;
+    width: 75%;
+    margin: 3rem auto;
+    background: url(img/light_background.jpg);
+}
+.container-1 button{
+    margin: 1rem;
+    font-size: larger;
+    font-weight: 400;
+}
+.flex-box-container-1{
+    border: 2px solid orangered;
+    padding: 1rem;
+    margin: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+.flex-box-container-1 .imgcontainer{
+    margin: 0 auto;
+}
+.flex-box-container-1 img{
+    width: 15rem ;
+    height: 9rem;
+    box-shadow: inset -1px 3px 8px 5px rgb(200, 200, 200), 2px 5px 16px 5px rgb(124, 122, 122), -2px 0px 35px 28px rgba(0,0,0,-1);
+    margin: 1rem 2rem;
+    border: 2px solid orange;
+}
+footer{
+    text-align: center;
+    font-size: large;
+    font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
+
